@@ -1,0 +1,1 @@
+// Ícono del carrito con contador

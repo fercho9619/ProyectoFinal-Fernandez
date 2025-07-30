@@ -1,0 +1,1 @@
+// Contexto global para el estado del carrito
