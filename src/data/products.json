@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "title": "Vestido Floral Primavera",
+        "category": "vestidos",
+        "price": 1299,
+        "stock": 10,
+        "image": "https://via.placeholder.com/200x200?text=Vestido+1",
+        "description": "Vestido ligero de flores, perfecto para el día a día."
+    },
+    {
+        "id": "2",
+        "title": "Blusa Negra Elegante",
+        "category": "accesorios",
+        "price": 599,
+        "stock": 15,
+        "image": "https://via.placeholder.com/200x200?text=Blusa+2",
+        "description": "Blusa de satén negro, ideal para la oficina o la noche."
+    },
+    {
+        "id": "3",
+        "title": "Pantalón Denim Ajustado",
+        "category": "vestidos",
+        "price": 899,
+        "stock": 8,
+        "image": "https://via.placeholder.com/200x200?text=Pantal%C3%B3n+3",
+        "description": "Jeans skinny de tiro alto con excelente elasticidad."
+    },
+    {
+        "id": "4",
+        "title": "Collar con Dije de Corazón",
+        "category": "accesorios",
+        "price": 299,
+        "stock": 20,
+        "image": "https://via.placeholder.com/200x200?text=Collar+4",
+        "description": "Collar delicado con dije en forma de corazón."
+    },
+    {
+        "id": "5",
+        "title": "Camisa de Lino Casual",
+        "category": "vestidos",
+        "price": 749,
+        "stock": 12,
+        "image": "https://via.placeholder.com/200x200?text=Camisa+5",
+        "description": "Camisa fresca de lino, ideal para climas cálidos."
+    },
+    {
+        "id": "6",
+        "title": "Bolso de Mano Minimalista",
+        "category": "accesorios",
+        "price": 1099,
+        "stock": 5,
+        "image": "https://via.placeholder.com/200x200?text=Bolso+6",
+        "description": "Bolso compacto con correa desmontable."
+    },
+    {
+        "id": "7",
+        "title": "Falda Larga Plisada",
+        "category": "vestidos",
+        "price": 999,
+        "stock": 7,
+        "image": "https://via.placeholder.com/200x200?text=Falda+7",
+        "description": "Falda plisada de corte midi, muy versátil."
+    },
+    {
+        "id": "8",
+        "title": "Aretes de Perla",
+        "category": "accesorios",
+        "price": 349,
+        "stock": 25,
+        "image": "https://via.placeholder.com/200x200?text=Aretes+8",
+        "description": "Aretes de perla sintética con cierre seguro."
+    },
+    {
+        "id": "9",
+        "title": "Chaqueta de Cuero Sintético",
+        "category": "vestidos",
+        "price": 1599,
+        "stock": 4,
+        "image": "https://via.placeholder.com/200x200?text=Chaqueta+9",
+        "description": "Chaqueta estilo biker en poliuretano resistente."
+    },
+    {
+        "id": "10",
+        "title": "Gorra Deportiva",
+        "category": "accesorios",
+        "price": 249,
+        "stock": 30,
+        "image": "https://via.placeholder.com/200x200?text=Gorra+10",
+        "description": "Gorra ligera con visera curvada."
+    }
+]
