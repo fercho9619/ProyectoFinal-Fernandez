@@ -1,3 +1,4 @@
+// src/App.jsx
 import { Routes, Route } from 'react-router-dom';
 import NavBar from './components/common/NavBar';
 import Footer from './components/common/Footer';
@@ -6,7 +7,8 @@ import Products from './pages/Products';
 import About from './pages/About';
 import Category from './pages/Category';
 import ProductDetail from './pages/ProductDetail';
-import Cart from './components/cart/Cart'; // ← CAMBIADO
+import Cart from './components/cart/Cart';
+import UploadProducts from './utils/UploadProducts';
 
 const App = () => {
   return (
@@ -19,6 +21,7 @@ const App = () => {
         <Route path="/categoria/:categoryId" element={<Category />} />
         <Route path="/detalle/:productId" element={<ProductDetail />} />
         <Route path="/carrito" element={<Cart />} />
+        <Route path="/upload" element={<UploadProducts />} />
         <Route path="*" element={<h2 style={{ padding: "2rem" }}>Página no encontrada</h2>} />
       </Routes>
       <Footer />
